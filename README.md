@@ -1,6 +1,5 @@
 # House-Hunt-finding-your-perfect-rental-home
 
-**"House-Hunt – Finding Your Perfect Rental Home"**
 
 ---
 
@@ -78,7 +77,7 @@ Document/
 1. Clone the repository  
 ```
 
-git clone [https://github.com/pabolukaruna7/House-Hunt-finding-your-perfect-rental-home.git](https://github.com/pabolukaruna7/House-Hunt-finding-your-perfect-rental-home.git)
+git clone [https://github.com/geethikamamidala/HouseHunt-Finding-Your-Perfect-Rental-Home](https://github.com/geethikamamidala/HouseHunt-Finding-Your-Perfect-Rental-Home)
 
 ```
 
