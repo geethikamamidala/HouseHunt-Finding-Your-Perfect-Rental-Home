@@ -111,9 +111,11 @@ This project is for academic purposes and not intended for commercial distributi
 - **Team ID:** LTVIP2025TMID55949
 - **Team Leader:** Pamarthi Chandrika
 - **Team Members:**
-  - Palagani Divya Sri
-  - Palanki Madhava Venkata Surya Narayana
-  - Pabolu Karuna
+  - Gurrala Dharma Teja
+  - Mamidala Geethika Navya
+  - Itikala Naga Subramanya Srivalli
+  - Venna Srividya
+
 
 ## 📁 Contents of This Phase
 
